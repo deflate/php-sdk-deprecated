@@ -1,0 +1,21 @@
+{
+  "name": "deflate/php-sdk-deprecated",
+  "description": "Official Deflate PHP SDK for PHP 5.3",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dave Macaulay",
+      "email": "dave@udder.io",
+      "url": "https://deflate.io"
+    }
+  ],
+  "require": {
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "Deflate": "lib"
+    }
+  }
+}
