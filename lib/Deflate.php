@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Class Deflate_Sdk
+ * Class Deflate
  *
  * @author Dave Macaulay <dave@udder.io>
  */
