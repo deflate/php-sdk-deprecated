@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Class Deflate
+ * Class Deflate_Sdk
  *
  * @author Dave Macaulay <dave@udder.io>
  */
-class Deflate
+class Deflate_Sdk
 {
     /**
      * The URL for the API
